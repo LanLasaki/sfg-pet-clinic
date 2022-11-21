@@ -1,9 +1,7 @@
 package guru.springframework.bootstrap;
 
-import guru.springframework.Services.OwnerService;
-import guru.springframework.Services.VetService;
-import guru.springframework.Services.map.OwnerServiceMap;
-import guru.springframework.Services.map.VetServiceMap;
+import guru.springframework.services.OwnerService;
+import guru.springframework.services.VetService;
 import guru.springframework.model.Owner;
 import guru.springframework.model.Vet;
 import org.springframework.beans.factory.annotation.Autowired;

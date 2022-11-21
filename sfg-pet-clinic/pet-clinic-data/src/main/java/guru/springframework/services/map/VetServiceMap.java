@@ -1,6 +1,6 @@
-package guru.springframework.Services.map;
+package guru.springframework.services.map;
 
-import guru.springframework.Services.VetService;
+import guru.springframework.services.VetService;
 import guru.springframework.model.Vet;
 import org.springframework.stereotype.Service;
 

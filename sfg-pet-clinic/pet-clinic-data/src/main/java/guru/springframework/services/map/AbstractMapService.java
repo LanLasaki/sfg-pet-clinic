@@ -1,4 +1,4 @@
-package guru.springframework.Services.map;
+package guru.springframework.services.map;
 
 import guru.springframework.model.BaseEntity;
 
