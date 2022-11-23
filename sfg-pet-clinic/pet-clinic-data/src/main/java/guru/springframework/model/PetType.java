@@ -18,5 +18,11 @@ public class PetType extends BaseEntity{
         this.name = name;
     }
 
-
+    @Override
+    public String toString() {
+        return "PetType{" +
+                "name='" + name + '\'' +
+                "id='" + this.getId() + '\'' +
+                '}';
+    }
 }
